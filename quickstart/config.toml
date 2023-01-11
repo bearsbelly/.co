@@ -1,4 +1,4 @@
-baseURL = 'https://abstrart.github.io/bbq/'
+baseURL = 'https://abstrart.github.io/bbq/quickstart/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
