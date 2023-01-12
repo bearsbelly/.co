@@ -1,4 +1,4 @@
 baseURL = 'https://abstrart.github.io/bbq/quickstart/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Under Construction'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
