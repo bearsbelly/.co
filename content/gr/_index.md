@@ -1,7 +1,7 @@
 ---
-title: "Η Κοιλιά της Αρκούδας"
-description:  "meat, smoke, booze & fire"
+title: " meat, smoke, booze & fire"
+description:  "Υπό Κατασκευή"
+
 ---
-# Υπο Κατασκευή 
 no more bs
 

@@ -1,6 +1,6 @@
 ---
-title: "Bear's Belly Co."
-description:  "meat, smoke, booze & fire"
+title: " meat, smoke, booze & fire"
+description:  "Under Construction"
+
 ---
-# Under Construction
   no more bs
