@@ -1,4 +1,4 @@
-baseURL = 'https://bearsbelly.github.io/.co'
+baseURL = 'https://bearsbelly.co'
 languageCode = 'en-us'
 title = 'Η Κοιλιά της Αρκούδας'
 theme = 'ananke' # Theming needs more work
