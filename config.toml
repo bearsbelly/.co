@@ -1,4 +1,4 @@
 baseURL = 'https://abstrart.github.io/bbq'
 languageCode = 'en-us'
 title = 'Η Κοιλιά της Αρκούδας'
-# theme = 'ananke1'
+theme = 'ananke1'
