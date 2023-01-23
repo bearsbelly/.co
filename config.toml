@@ -14,10 +14,10 @@ enableRobotsTXT = false
 #
 #
 [languages]
-  #[languages.en]
-    # title = "Ananke"
-    # weight = 1
-    # contentDir = "content/en"
+  [languages.en]
+    title = "Bear's Belly"
+    weight = 1
+    contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.gr]
     title = "Η Κοιλιά της Αρκούδας"
