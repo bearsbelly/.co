@@ -15,7 +15,7 @@ enableRobotsTXT = false
 #
 [languages]
   [languages.en]
-    title = "Bear's Belly"
+    title = "Bear's Belly Co."
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
