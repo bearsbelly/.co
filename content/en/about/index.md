@@ -1,5 +1,5 @@
 ---
-title: "Bear's Belly Co."
+title: "About"
 description:  "meat, smoke, booze & fire"
 type: page
 menu: main
