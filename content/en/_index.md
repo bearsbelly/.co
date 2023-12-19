@@ -1,6 +1,6 @@
 ---
 title: " meat, smoke, booze & fire"
-description:  "Under Construction"
+description:  " Construction"
 
 ---
   no more bs
