@@ -1,7 +1,9 @@
 ---
 title: "Menu"
 description:  "meat, smoke, booze & fire"
-menus: main
+type: page
+menu: main
+
 
 
 ---
