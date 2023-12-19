@@ -31,7 +31,7 @@ enableRobotsTXT = false
   text_color = ""
   author = ""
   favicon = ""
-  site_logo = "/img/bbqlogo.png"
+  site_logo = "/img/logo.png"
   description = "No more bs"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"

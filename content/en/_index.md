@@ -2,8 +2,8 @@
 title: " "
 #description:  " Construction"
 type: page
-#menu: main
+menu: main
 cascade:
- featured_image: "/img/logo.png"
+#featured_image: "/img/logo.png"
 ---
   no more bs
