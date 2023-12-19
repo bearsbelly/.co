@@ -4,4 +4,4 @@ title: "About"
 type: page
 menu: main
 ---
-Under Construction... no more bs...
+{{< gmap_med_en >}} 
