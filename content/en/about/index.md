@@ -1,6 +1,6 @@
 ---
 title: "About"
-description:  "meat, smoke, booze & fire"
+#description:  "meat, smoke, booze & fire"
 type: page
 menu: main
 ---
