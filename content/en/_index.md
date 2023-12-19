@@ -1,5 +1,5 @@
 ---
-#title: " meat, smoke, booze & fire"
+title: " "
 #description:  " Construction"
 type: page
 menu: main
